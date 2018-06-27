@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9228536A20E30A1F006E3119 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9228536920E30A1F006E3119 /* SettingsViewController.m */; };
 		92A88CCD20E2D3BA004271A6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 92A88CCC20E2D3BA004271A6 /* AppDelegate.m */; };
 		92A88CD020E2D3BA004271A6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92A88CCF20E2D3BA004271A6 /* ViewController.m */; };
 		92A88CD320E2D3BA004271A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92A88CD120E2D3BA004271A6 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9228536820E30A1F006E3119 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		9228536920E30A1F006E3119 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		92A88CC820E2D3BA004271A6 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92A88CCB20E2D3BA004271A6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		92A88CCC20E2D3BA004271A6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				92A88CD620E2D3BB004271A6 /* LaunchScreen.storyboard */,
 				92A88CD920E2D3BB004271A6 /* Info.plist */,
 				92A88CDA20E2D3BB004271A6 /* main.m */,
+				9228536820E30A1F006E3119 /* SettingsViewController.h */,
+				9228536920E30A1F006E3119 /* SettingsViewController.m */,
 			);
 			path = Tipster;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				92A88CD020E2D3BA004271A6 /* ViewController.m in Sources */,
 				92A88CDB20E2D3BB004271A6 /* main.m in Sources */,
 				92A88CCD20E2D3BA004271A6 /* AppDelegate.m in Sources */,
+				9228536A20E30A1F006E3119 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
